@@ -23,7 +23,11 @@ Here are some ideas to get you started:
 	blogger https://www.blogger.com/blog/posts/811070163226418043?hl=ko
 -->
 <!-- blogger svg -->
-<a href="https://www.blogger.com/blog/posts/811070163226418043?hl=ko" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<p align="center">
+	<a href="https://www.blogger.com/blog/posts/811070163226418043?hl=ko">
+		<img alt="Blogger google" src="https://simpleicons.org/icons/blogger.svg" />
+    </a>
+</p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 ?count_private=true 속성을 추가하시면, 여러분의 모든 비공개 기여도까지 반영됩니다.
@@ -37,4 +41,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miraclelee0613&layout=compact&show_icons=true&theme=github_dark&count_private=true&include_all_commits)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraclelee0613&hide=css,javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraclelee0613&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

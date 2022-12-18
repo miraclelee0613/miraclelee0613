@@ -41,4 +41,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miraclelee0613&layout=compact&show_icons=true&theme=github_dark&count_private=true&include_all_commits)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraclelee0613&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraclelee0613&hide=html&show=java,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

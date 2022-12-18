@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- blogger svg -->
 <p align="center">
 	<a href="https://www.blogger.com/blog/posts/811070163226418043?hl=ko">
-		<img alt="Blogger google" src="https://simpleicons.org/icons/blogger.svg" />
+		<img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/>
     </a>
 </p>
 

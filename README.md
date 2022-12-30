@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 	<a href="https://www.blogger.com/blog/posts/811070163226418043?hl=ko">
 		<img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/>
     </a>
+	<a href="https://sapphire-orange-310.notion.site/803bef16641a4c03a950d557431170fc">
+		<img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=Notion&logoColor=black"/>
+	</a>
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md

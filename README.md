@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## about me
-- 🌱 I’m currently learning java, c, ~~python~~
+- 🌱 I’m currently learning JAVA, VBA, BATCH(.cmd, .bat), ~~C, python
 
 
 

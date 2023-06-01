@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 		<img src="https://img.shields.io/badge/Notion-lightgrey?logo=notion&style=flat-square&logoColor=black"/>
 	</a>
 	<a href="https://gitlab.com/miraclelee0613">
-		<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square?logo=gitlab?logoColor=black"/>
+		<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
 	</a>
 </p>
 

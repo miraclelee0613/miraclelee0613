@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## about me
-- 🌱 I’m currently learning JAVA, VBA(Excel), BATCH(.bat, .cmd), ~~c, python
+- 🌱 I’m currently learning JAVA, VBA(Excel), BATCH(.bat, .cmd), ~~c~~, python
 
 
 
@@ -31,6 +31,9 @@ Here are some ideas to get you started:
     </a>
 	<a href="https://sapphire-orange-310.notion.site/803bef16641a4c03a950d557431170fc">
 		<img src="https://img.shields.io/badge/Notion-lightgrey?logo=notion&style=flat-square&logoColor=black"/>
+	</a>
+	<a href="https://gitlab.com/miraclelee0613">
+		<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square?logo=gitlab?logoColor=black"/>
 	</a>
 </p>
 
